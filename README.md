@@ -1,16 +1,40 @@
-# React + Vite
+# Mudra Kosha
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An interactive archive, flashcard, and quiz app for learning the hand gestures
+(mudras) of Bharatanatyam.
 
-Currently, two official plugins are available:
+Live at **https://nivupai.github.io/mudra/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Archive** — all 50 hastas, split into Single-Hand (Asamyukta) and
+  Double-Hand (Samyukta) sections, each with reference photos and a short
+  description.
+- **Flashcards** — Quizlet-style flip cards with shuffle and "know it" /
+  "still learning" sorting.
+- **Quiz** — mixed-direction multiple choice (name → photo and photo → name).
+- **Recognize** — placeholder page; live webcam mudra recognition is a
+  future addition (the original training notebooks never shipped a usable
+  model).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Data
 
-## Expanding the Oxlint configuration
+Sample images are drawn from the [Bharatanatyam Mudra
+Dataset](https://github.com/jisharajr/Bharatanatyam-Mudra-Dataset) (Jisha Raj
+R., College of Engineering Attingal), released under CC BY-SA 4.0.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Development
+
+```bash
+npm install --legacy-peer-deps
+npm run dev
+```
+
+`--legacy-peer-deps` works around a known npm/arborist bug with this Vite
+template's peer dependencies.
+
+## Deployment
+
+Pushes to `main` build and deploy automatically via the GitHub Actions
+workflow in `.github/workflows/deploy.yml`, publishing to GitHub Pages at
+`/mudra/`.
