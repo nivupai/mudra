@@ -25,7 +25,7 @@ const FEATURES = [
     to: "/recognize",
     title: "Recognize",
     emoji: "🤲",
-    desc: "A live webcam mudra-recognition demo — in progress.",
+    desc: "Hold up a mudra to your webcam and a model trained on hand landmarks guesses which one it is.",
   },
 ];
 

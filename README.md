@@ -13,9 +13,10 @@ Live at **https://nivupai.github.io/mudra/**
 - **Flashcards** — Quizlet-style flip cards with shuffle and "know it" /
   "still learning" sorting.
 - **Quiz** — mixed-direction multiple choice (name → photo and photo → name).
-- **Recognize** — placeholder page; live webcam mudra recognition is a
-  future addition (the original training notebooks never shipped a usable
-  model).
+- **Recognize** — live webcam mudra recognition. Runs entirely client-side:
+  MediaPipe HandLandmarker tracks hand joints, a small MLP (trained on
+  landmarks extracted from the dataset, see `ml/`) classifies the pose.
+  Nothing leaves the browser.
 
 ## Data
 

@@ -1,6 +1,111 @@
 .recognize-page {
   padding: 32px 0 60px;
-  max-width: 680px;
+}
+
+.recognize-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 28px;
+  align-items: start;
+}
+
+.recognize-video-wrap {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  background: #1c1414;
+  border-radius: var(--card-radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  border: 1px solid #f0e2c8;
+}
+
+.recognize-video,
+.recognize-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scaleX(-1); /* mirror, feels natural */
+}
+
+.recognize-video {
+  opacity: 0; /* we draw frames onto the canvas instead */
+}
+
+.recognize-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(28, 20, 20, 0.55);
+  color: var(--cream);
+  font-weight: 600;
+}
+
+.recognize-results {
+  background: white;
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow);
+  border: 1px solid #f0e2c8;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 200px;
+}
+
+.recognize-hand-count {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.recognize-ranked {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.recognize-ranked li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: var(--cream);
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+
+.recognize-ranked li.top {
+  background: var(--maroon);
+  color: var(--cream);
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.recognize-rank-pct {
+  font-variant-numeric: tabular-nums;
+  opacity: 0.85;
+}
+
+.recognize-hint {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.recognize-view-link {
+  text-align: center;
+  justify-content: center;
+}
+
+.recognize-error {
+  color: #a4471c;
 }
 
 .recognize-card {
@@ -8,27 +113,11 @@
   border-radius: var(--card-radius);
   box-shadow: var(--shadow);
   border: 1px solid #f0e2c8;
-  padding: 36px;
-  text-align: center;
+  padding: 28px;
 }
 
-.recognize-emoji {
-  font-size: 2.6rem;
-  margin-bottom: 10px;
-}
-
-.recognize-card h2 {
-  color: var(--maroon);
-  margin-bottom: 14px;
-}
-
-.recognize-card p {
-  color: var(--ink-soft);
-  line-height: 1.7;
-  text-align: left;
-}
-
-.recognize-card .detail-actions {
-  justify-content: center;
-  margin-top: 24px;
+@media (max-width: 800px) {
+  .recognize-layout {
+    grid-template-columns: 1fr;
+  }
 }
