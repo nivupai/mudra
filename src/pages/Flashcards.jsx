@@ -123,11 +123,11 @@ export default function Flashcards() {
 
         <div className="flash-sort">
           <button className="btn learning-btn" onClick={() => mark("learning")}>Still learning</button>
-          <button className="btn known-btn" onClick={() => mark("known")}>I know it ✓</button>
+          <button className="btn known-btn" onClick={() => mark("known")}>I know it</button>
         </div>
 
         <div className="flash-utility">
-          <button className="btn secondary small" onClick={reshuffle}>🔀 Shuffle deck</button>
+          <button className="btn secondary small" onClick={reshuffle}>Shuffle deck</button>
           <button className="btn secondary small" onClick={resetProgress}>Reset progress</button>
         </div>
       </div>

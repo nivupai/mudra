@@ -1,36 +1,36 @@
 import { Link } from "react-router-dom";
 import { MUDRAS, SINGLE_HAND, DOUBLE_HAND } from "../data/mudras";
+import lotusBlossom from "../assets/lotus-blossom.gif";
 import "./Home.css";
 
 const FEATURES = [
   {
     to: "/archive",
     title: "Archive",
-    emoji: "📜",
+    numeral: "I",
     desc: "Browse every hasta with reference photos, Sanskrit names, and what each gesture represents.",
   },
   {
     to: "/flashcards",
     title: "Flashcards",
-    emoji: "🪷",
+    numeral: "II",
     desc: "Quizlet-style flip cards — flip, shuffle, and sort mudras into 'know it' and 'still learning' piles.",
   },
   {
     to: "/quiz",
     title: "Quiz",
-    emoji: "🎯",
+    numeral: "III",
     desc: "Timed multiple-choice rounds that test whether you can name a mudra from its photo (and back again).",
   },
   {
     to: "/recognize",
     title: "Recognize",
-    emoji: "🤲",
+    numeral: "IV",
     desc: "Hold up a mudra to your webcam and a model trained on hand landmarks guesses which one it is.",
   },
 ];
 
 export default function Home() {
-  const sampleImg = MUDRAS[12]?.images?.[0];
   return (
     <div>
       <section className="hero">
@@ -49,18 +49,16 @@ export default function Home() {
               <Link className="btn secondary" to="/flashcards">Start flashcards</Link>
             </div>
           </div>
-          {sampleImg && (
-            <div className="hero-art">
-              <img src={sampleImg} alt="Sample mudra" />
-            </div>
-          )}
+          <div className="hero-art">
+            <img src={lotusBlossom} alt="A lotus blossoming" />
+          </div>
         </div>
       </section>
 
       <section className="container features">
         {FEATURES.map((f) => (
           <Link key={f.to} to={f.to} className="feature-card">
-            <span className="feature-emoji">{f.emoji}</span>
+            <span className="feature-numeral">{f.numeral}</span>
             <h3>{f.title}</h3>
             <p>{f.desc}</p>
           </Link>
