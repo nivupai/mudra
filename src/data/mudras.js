@@ -24,7 +24,55 @@ export const MUDRAS = images.map((entry) => {
   };
 });
 
-export const SINGLE_HAND = MUDRAS.filter((m) => m.category === "single");
+// Traditional Abhinaya Darpana order of the 28 Asamyukta Hastas. Katakamukha
+// has three recorded variants in this dataset, kept together in its slot;
+// Samdamsha has no corresponding folder in the dataset and is omitted.
+const SINGLE_HAND_ORDER = [
+  "pathaka",
+  "tripathaka",
+  "ardhapathaka",
+  "katrimukha",
+  "mayura",
+  "ardhachandran",
+  "aralam",
+  "shukatundam",
+  "mushti",
+  "sikharam",
+  "kapith",
+  "katakamukha-1",
+  "katakamukha-2",
+  "katakamukha-3",
+  "suchi",
+  "chandrakala",
+  "padmakosha",
+  "sarpasirsha",
+  "mrigasirsha",
+  "simhamukham",
+  "kangulam",
+  "alapadmam",
+  "chaturam",
+  "bramaram",
+  "hamsasyam",
+  "hamsapaksha",
+  "mukulam",
+  "tamarachudam",
+  "trishulam",
+];
+
+function byOrder(order) {
+  return (a, b) => {
+    const ai = order.indexOf(a.slug);
+    const bi = order.indexOf(b.slug);
+    if (ai === -1 && bi === -1) return 0;
+    if (ai === -1) return 1;
+    if (bi === -1) return -1;
+    return ai - bi;
+  };
+}
+
+export const SINGLE_HAND = MUDRAS.filter((m) => m.category === "single").sort(
+  byOrder(SINGLE_HAND_ORDER)
+);
 export const DOUBLE_HAND = MUDRAS.filter((m) => m.category === "double");
 
 export function getMudra(slug) {
