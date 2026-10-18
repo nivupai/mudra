@@ -1,0 +1,702 @@
+[
+  {
+    "slug": "alapadmam",
+    "rawFolder": "Alapadmam(1)",
+    "displayName": "Alapadmam",
+    "totalImages": 537,
+    "images": [
+      "/mudras/alapadmam/0.jpg",
+      "/mudras/alapadmam/1.jpg",
+      "/mudras/alapadmam/2.jpg",
+      "/mudras/alapadmam/3.jpg",
+      "/mudras/alapadmam/4.jpg",
+      "/mudras/alapadmam/5.jpg"
+    ]
+  },
+  {
+    "slug": "anjali",
+    "rawFolder": "Anjali(1)",
+    "displayName": "Anjali",
+    "totalImages": 593,
+    "images": [
+      "/mudras/anjali/0.jpg",
+      "/mudras/anjali/1.jpg",
+      "/mudras/anjali/2.jpg",
+      "/mudras/anjali/3.jpg",
+      "/mudras/anjali/4.jpg",
+      "/mudras/anjali/5.jpg"
+    ]
+  },
+  {
+    "slug": "aralam",
+    "rawFolder": "Aralam(1)",
+    "displayName": "Aralam",
+    "totalImages": 615,
+    "images": [
+      "/mudras/aralam/0.jpg",
+      "/mudras/aralam/1.jpg",
+      "/mudras/aralam/2.jpg",
+      "/mudras/aralam/3.jpg",
+      "/mudras/aralam/4.jpg",
+      "/mudras/aralam/5.jpg"
+    ]
+  },
+  {
+    "slug": "ardhachandran",
+    "rawFolder": "Ardhachandran(1)",
+    "displayName": "Ardhachandran",
+    "totalImages": 463,
+    "images": [
+      "/mudras/ardhachandran/0.jpg",
+      "/mudras/ardhachandran/1.jpg",
+      "/mudras/ardhachandran/2.jpg",
+      "/mudras/ardhachandran/3.jpg",
+      "/mudras/ardhachandran/4.jpg",
+      "/mudras/ardhachandran/5.jpg"
+    ]
+  },
+  {
+    "slug": "ardhapathaka",
+    "rawFolder": "Ardhapathaka(1)",
+    "displayName": "Ardhapathaka",
+    "totalImages": 577,
+    "images": [
+      "/mudras/ardhapathaka/0.jpg",
+      "/mudras/ardhapathaka/1.jpg",
+      "/mudras/ardhapathaka/2.jpg",
+      "/mudras/ardhapathaka/3.jpg",
+      "/mudras/ardhapathaka/4.jpg",
+      "/mudras/ardhapathaka/5.jpg"
+    ]
+  },
+  {
+    "slug": "berunda",
+    "rawFolder": "Berunda(1)",
+    "displayName": "Berunda",
+    "totalImages": 573,
+    "images": [
+      "/mudras/berunda/0.jpg",
+      "/mudras/berunda/1.jpg",
+      "/mudras/berunda/2.jpg",
+      "/mudras/berunda/3.jpg",
+      "/mudras/berunda/4.jpg",
+      "/mudras/berunda/5.jpg"
+    ]
+  },
+  {
+    "slug": "bramaram",
+    "rawFolder": "Bramaram(1)",
+    "displayName": "Bramaram",
+    "totalImages": 455,
+    "images": [
+      "/mudras/bramaram/0.jpg",
+      "/mudras/bramaram/1.jpg",
+      "/mudras/bramaram/2.jpg",
+      "/mudras/bramaram/3.jpg",
+      "/mudras/bramaram/4.jpg",
+      "/mudras/bramaram/5.jpg"
+    ]
+  },
+  {
+    "slug": "chakra",
+    "rawFolder": "Chakra(1)",
+    "displayName": "Chakra",
+    "totalImages": 610,
+    "images": [
+      "/mudras/chakra/0.jpg",
+      "/mudras/chakra/1.jpg",
+      "/mudras/chakra/2.jpg",
+      "/mudras/chakra/3.jpg",
+      "/mudras/chakra/4.jpg",
+      "/mudras/chakra/5.jpg"
+    ]
+  },
+  {
+    "slug": "chandrakala",
+    "rawFolder": "Chandrakala(1)",
+    "displayName": "Chandrakala",
+    "totalImages": 466,
+    "images": [
+      "/mudras/chandrakala/0.jpg",
+      "/mudras/chandrakala/1.jpg",
+      "/mudras/chandrakala/2.jpg",
+      "/mudras/chandrakala/3.jpg",
+      "/mudras/chandrakala/4.jpg",
+      "/mudras/chandrakala/5.jpg"
+    ]
+  },
+  {
+    "slug": "chaturam",
+    "rawFolder": "Chaturam(1)",
+    "displayName": "Chaturam",
+    "totalImages": 466,
+    "images": [
+      "/mudras/chaturam/0.jpg",
+      "/mudras/chaturam/1.jpg",
+      "/mudras/chaturam/2.jpg",
+      "/mudras/chaturam/3.jpg",
+      "/mudras/chaturam/4.jpg",
+      "/mudras/chaturam/5.jpg"
+    ]
+  },
+  {
+    "slug": "garuda",
+    "rawFolder": "Garuda(1)",
+    "displayName": "Garuda",
+    "totalImages": 633,
+    "images": [
+      "/mudras/garuda/0.jpg",
+      "/mudras/garuda/1.jpg",
+      "/mudras/garuda/2.jpg",
+      "/mudras/garuda/3.jpg",
+      "/mudras/garuda/4.jpg",
+      "/mudras/garuda/5.jpg"
+    ]
+  },
+  {
+    "slug": "hamsapaksha",
+    "rawFolder": "Hamsapaksha(1)",
+    "displayName": "Hamsapaksha",
+    "totalImages": 569,
+    "images": [
+      "/mudras/hamsapaksha/0.jpg",
+      "/mudras/hamsapaksha/1.jpg",
+      "/mudras/hamsapaksha/2.jpg",
+      "/mudras/hamsapaksha/3.jpg",
+      "/mudras/hamsapaksha/4.jpg",
+      "/mudras/hamsapaksha/5.jpg"
+    ]
+  },
+  {
+    "slug": "hamsasyam",
+    "rawFolder": "Hamsasyam(1)",
+    "displayName": "Hamsasyam",
+    "totalImages": 565,
+    "images": [
+      "/mudras/hamsasyam/0.jpg",
+      "/mudras/hamsasyam/1.jpg",
+      "/mudras/hamsasyam/2.jpg",
+      "/mudras/hamsasyam/3.jpg",
+      "/mudras/hamsasyam/4.jpg",
+      "/mudras/hamsasyam/5.jpg"
+    ]
+  },
+  {
+    "slug": "kangulam",
+    "rawFolder": "Kangulam(1)",
+    "displayName": "Kangulam",
+    "totalImages": 527,
+    "images": [
+      "/mudras/kangulam/0.jpg",
+      "/mudras/kangulam/1.jpg",
+      "/mudras/kangulam/2.jpg",
+      "/mudras/kangulam/3.jpg",
+      "/mudras/kangulam/4.jpg",
+      "/mudras/kangulam/5.jpg"
+    ]
+  },
+  {
+    "slug": "kapith",
+    "rawFolder": "Kapith(1)",
+    "displayName": "Kapith",
+    "totalImages": 558,
+    "images": [
+      "/mudras/kapith/0.jpg",
+      "/mudras/kapith/1.jpg",
+      "/mudras/kapith/2.jpg",
+      "/mudras/kapith/3.jpg",
+      "/mudras/kapith/4.jpg",
+      "/mudras/kapith/5.jpg"
+    ]
+  },
+  {
+    "slug": "kapotham",
+    "rawFolder": "Kapotham(1)",
+    "displayName": "Kapotham",
+    "totalImages": 669,
+    "images": [
+      "/mudras/kapotham/0.jpg",
+      "/mudras/kapotham/1.jpg",
+      "/mudras/kapotham/2.jpg",
+      "/mudras/kapotham/3.jpg",
+      "/mudras/kapotham/4.jpg",
+      "/mudras/kapotham/5.jpg"
+    ]
+  },
+  {
+    "slug": "karkatta",
+    "rawFolder": "Karkatta(1)",
+    "displayName": "Karkatta",
+    "totalImages": 550,
+    "images": [
+      "/mudras/karkatta/0.jpg",
+      "/mudras/karkatta/1.jpg",
+      "/mudras/karkatta/2.jpg",
+      "/mudras/karkatta/3.jpg",
+      "/mudras/karkatta/4.jpg",
+      "/mudras/karkatta/5.jpg"
+    ]
+  },
+  {
+    "slug": "kartariswastika",
+    "rawFolder": "Kartariswastika(1)",
+    "displayName": "Kartariswastika",
+    "totalImages": 681,
+    "images": [
+      "/mudras/kartariswastika/0.jpg",
+      "/mudras/kartariswastika/1.jpg",
+      "/mudras/kartariswastika/2.jpg",
+      "/mudras/kartariswastika/3.jpg",
+      "/mudras/kartariswastika/4.jpg",
+      "/mudras/kartariswastika/5.jpg"
+    ]
+  },
+  {
+    "slug": "katakamukha-1",
+    "rawFolder": "Katakamukha_1",
+    "displayName": "Katakamukha_1",
+    "totalImages": 492,
+    "images": [
+      "/mudras/katakamukha-1/0.jpg",
+      "/mudras/katakamukha-1/1.jpg",
+      "/mudras/katakamukha-1/2.jpg",
+      "/mudras/katakamukha-1/3.jpg",
+      "/mudras/katakamukha-1/4.jpg",
+      "/mudras/katakamukha-1/5.jpg"
+    ]
+  },
+  {
+    "slug": "katakamukha-2",
+    "rawFolder": "Katakamukha_2",
+    "displayName": "Katakamukha_2",
+    "totalImages": 488,
+    "images": [
+      "/mudras/katakamukha-2/0.jpg",
+      "/mudras/katakamukha-2/1.jpg",
+      "/mudras/katakamukha-2/2.jpg",
+      "/mudras/katakamukha-2/3.jpg",
+      "/mudras/katakamukha-2/4.jpg",
+      "/mudras/katakamukha-2/5.jpg"
+    ]
+  },
+  {
+    "slug": "katakamukha-3",
+    "rawFolder": "Katakamukha_3",
+    "displayName": "Katakamukha_3",
+    "totalImages": 507,
+    "images": [
+      "/mudras/katakamukha-3/0.jpg",
+      "/mudras/katakamukha-3/1.jpg",
+      "/mudras/katakamukha-3/2.jpg",
+      "/mudras/katakamukha-3/3.jpg",
+      "/mudras/katakamukha-3/4.jpg",
+      "/mudras/katakamukha-3/5.jpg"
+    ]
+  },
+  {
+    "slug": "katakavardhana",
+    "rawFolder": "Katakavardhana(1)",
+    "displayName": "Katakavardhana",
+    "totalImages": 769,
+    "images": [
+      "/mudras/katakavardhana/0.jpg",
+      "/mudras/katakavardhana/1.jpg",
+      "/mudras/katakavardhana/2.jpg",
+      "/mudras/katakavardhana/3.jpg",
+      "/mudras/katakavardhana/4.jpg",
+      "/mudras/katakavardhana/5.jpg"
+    ]
+  },
+  {
+    "slug": "katrimukha",
+    "rawFolder": "Katrimukha(1)",
+    "displayName": "Katrimukha",
+    "totalImages": 564,
+    "images": [
+      "/mudras/katrimukha/0.jpg",
+      "/mudras/katrimukha/1.jpg",
+      "/mudras/katrimukha/2.jpg",
+      "/mudras/katrimukha/3.jpg",
+      "/mudras/katrimukha/4.jpg",
+      "/mudras/katrimukha/5.jpg"
+    ]
+  },
+  {
+    "slug": "khatva",
+    "rawFolder": "Khatva(1)",
+    "displayName": "Khatva",
+    "totalImages": 463,
+    "images": [
+      "/mudras/khatva/0.jpg",
+      "/mudras/khatva/1.jpg",
+      "/mudras/khatva/2.jpg",
+      "/mudras/khatva/3.jpg",
+      "/mudras/khatva/4.jpg",
+      "/mudras/khatva/5.jpg"
+    ]
+  },
+  {
+    "slug": "kilaka",
+    "rawFolder": "Kilaka(1)",
+    "displayName": "Kilaka",
+    "totalImages": 458,
+    "images": [
+      "/mudras/kilaka/0.jpg",
+      "/mudras/kilaka/1.jpg",
+      "/mudras/kilaka/2.jpg",
+      "/mudras/kilaka/3.jpg",
+      "/mudras/kilaka/4.jpg",
+      "/mudras/kilaka/5.jpg"
+    ]
+  },
+  {
+    "slug": "kurma",
+    "rawFolder": "Kurma(1)",
+    "displayName": "Kurma",
+    "totalImages": 602,
+    "images": [
+      "/mudras/kurma/0.jpg",
+      "/mudras/kurma/1.jpg",
+      "/mudras/kurma/2.jpg",
+      "/mudras/kurma/3.jpg",
+      "/mudras/kurma/4.jpg",
+      "/mudras/kurma/5.jpg"
+    ]
+  },
+  {
+    "slug": "matsya",
+    "rawFolder": "Matsya(1)",
+    "displayName": "Matsya",
+    "totalImages": 663,
+    "images": [
+      "/mudras/matsya/0.jpg",
+      "/mudras/matsya/1.jpg",
+      "/mudras/matsya/2.jpg",
+      "/mudras/matsya/3.jpg",
+      "/mudras/matsya/4.jpg",
+      "/mudras/matsya/5.jpg"
+    ]
+  },
+  {
+    "slug": "mayura",
+    "rawFolder": "Mayura(1)",
+    "displayName": "Mayura",
+    "totalImages": 534,
+    "images": [
+      "/mudras/mayura/0.jpg",
+      "/mudras/mayura/1.jpg",
+      "/mudras/mayura/2.jpg",
+      "/mudras/mayura/3.jpg",
+      "/mudras/mayura/4.jpg",
+      "/mudras/mayura/5.jpg"
+    ]
+  },
+  {
+    "slug": "mrigasirsha",
+    "rawFolder": "Mrigasirsha(1)",
+    "displayName": "Mrigasirsha",
+    "totalImages": 559,
+    "images": [
+      "/mudras/mrigasirsha/0.jpg",
+      "/mudras/mrigasirsha/1.jpg",
+      "/mudras/mrigasirsha/2.jpg",
+      "/mudras/mrigasirsha/3.jpg",
+      "/mudras/mrigasirsha/4.jpg",
+      "/mudras/mrigasirsha/5.jpg"
+    ]
+  },
+  {
+    "slug": "mukulam",
+    "rawFolder": "Mukulam(1)",
+    "displayName": "Mukulam",
+    "totalImages": 571,
+    "images": [
+      "/mudras/mukulam/0.jpg",
+      "/mudras/mukulam/1.jpg",
+      "/mudras/mukulam/2.jpg",
+      "/mudras/mukulam/3.jpg",
+      "/mudras/mukulam/4.jpg",
+      "/mudras/mukulam/5.jpg"
+    ]
+  },
+  {
+    "slug": "mushti",
+    "rawFolder": "Mushti(1)",
+    "displayName": "Mushti",
+    "totalImages": 490,
+    "images": [
+      "/mudras/mushti/0.jpg",
+      "/mudras/mushti/1.jpg",
+      "/mudras/mushti/2.jpg",
+      "/mudras/mushti/3.jpg",
+      "/mudras/mushti/4.jpg",
+      "/mudras/mushti/5.jpg"
+    ]
+  },
+  {
+    "slug": "nagabandha",
+    "rawFolder": "Nagabandha(1)",
+    "displayName": "Nagabandha",
+    "totalImages": 577,
+    "images": [
+      "/mudras/nagabandha/0.jpg",
+      "/mudras/nagabandha/1.jpg",
+      "/mudras/nagabandha/2.jpg",
+      "/mudras/nagabandha/3.jpg",
+      "/mudras/nagabandha/4.jpg",
+      "/mudras/nagabandha/5.jpg"
+    ]
+  },
+  {
+    "slug": "padmakosha",
+    "rawFolder": "Padmakosha(1)",
+    "displayName": "Padmakosha",
+    "totalImages": 495,
+    "images": [
+      "/mudras/padmakosha/0.jpg",
+      "/mudras/padmakosha/1.jpg",
+      "/mudras/padmakosha/2.jpg",
+      "/mudras/padmakosha/3.jpg",
+      "/mudras/padmakosha/4.jpg",
+      "/mudras/padmakosha/5.jpg"
+    ]
+  },
+  {
+    "slug": "pasha",
+    "rawFolder": "Pasha(1)",
+    "displayName": "Pasha",
+    "totalImages": 507,
+    "images": [
+      "/mudras/pasha/0.jpg",
+      "/mudras/pasha/1.jpg",
+      "/mudras/pasha/2.jpg",
+      "/mudras/pasha/3.jpg",
+      "/mudras/pasha/4.jpg",
+      "/mudras/pasha/5.jpg"
+    ]
+  },
+  {
+    "slug": "pathaka",
+    "rawFolder": "Pathaka(1)",
+    "displayName": "Pathaka",
+    "totalImages": 568,
+    "images": [
+      "/mudras/pathaka/0.jpg",
+      "/mudras/pathaka/1.jpg",
+      "/mudras/pathaka/2.jpg",
+      "/mudras/pathaka/3.jpg",
+      "/mudras/pathaka/4.jpg",
+      "/mudras/pathaka/5.jpg"
+    ]
+  },
+  {
+    "slug": "pushpaputa",
+    "rawFolder": "Pushpaputa(1)",
+    "displayName": "Pushpaputa",
+    "totalImages": 723,
+    "images": [
+      "/mudras/pushpaputa/0.jpg",
+      "/mudras/pushpaputa/1.jpg",
+      "/mudras/pushpaputa/2.jpg",
+      "/mudras/pushpaputa/3.jpg",
+      "/mudras/pushpaputa/4.jpg",
+      "/mudras/pushpaputa/5.jpg"
+    ]
+  },
+  {
+    "slug": "sakata",
+    "rawFolder": "Sakata(1)",
+    "displayName": "Sakata",
+    "totalImages": 614,
+    "images": [
+      "/mudras/sakata/0.jpg",
+      "/mudras/sakata/1.jpg",
+      "/mudras/sakata/2.jpg",
+      "/mudras/sakata/3.jpg",
+      "/mudras/sakata/4.jpg",
+      "/mudras/sakata/5.jpg"
+    ]
+  },
+  {
+    "slug": "samputa",
+    "rawFolder": "Samputa(1)",
+    "displayName": "Samputa",
+    "totalImages": 648,
+    "images": [
+      "/mudras/samputa/0.jpg",
+      "/mudras/samputa/1.jpg",
+      "/mudras/samputa/2.jpg",
+      "/mudras/samputa/3.jpg",
+      "/mudras/samputa/4.jpg",
+      "/mudras/samputa/5.jpg"
+    ]
+  },
+  {
+    "slug": "sarpasirsha",
+    "rawFolder": "Sarpasirsha(1)",
+    "displayName": "Sarpasirsha",
+    "totalImages": 563,
+    "images": [
+      "/mudras/sarpasirsha/0.jpg",
+      "/mudras/sarpasirsha/1.jpg",
+      "/mudras/sarpasirsha/2.jpg",
+      "/mudras/sarpasirsha/3.jpg",
+      "/mudras/sarpasirsha/4.jpg",
+      "/mudras/sarpasirsha/5.jpg"
+    ]
+  },
+  {
+    "slug": "shanka",
+    "rawFolder": "Shanka(1)",
+    "displayName": "Shanka",
+    "totalImages": 724,
+    "images": [
+      "/mudras/shanka/0.jpg",
+      "/mudras/shanka/1.jpg",
+      "/mudras/shanka/2.jpg",
+      "/mudras/shanka/3.jpg",
+      "/mudras/shanka/4.jpg",
+      "/mudras/shanka/5.jpg"
+    ]
+  },
+  {
+    "slug": "shivalinga",
+    "rawFolder": "Shivalinga(1)",
+    "displayName": "Shivalinga",
+    "totalImages": 681,
+    "images": [
+      "/mudras/shivalinga/0.jpg",
+      "/mudras/shivalinga/1.jpg",
+      "/mudras/shivalinga/2.jpg",
+      "/mudras/shivalinga/3.jpg",
+      "/mudras/shivalinga/4.jpg",
+      "/mudras/shivalinga/5.jpg"
+    ]
+  },
+  {
+    "slug": "shukatundam",
+    "rawFolder": "Shukatundam(1)",
+    "displayName": "Shukatundam",
+    "totalImages": 559,
+    "images": [
+      "/mudras/shukatundam/0.jpg",
+      "/mudras/shukatundam/1.jpg",
+      "/mudras/shukatundam/2.jpg",
+      "/mudras/shukatundam/3.jpg",
+      "/mudras/shukatundam/4.jpg",
+      "/mudras/shukatundam/5.jpg"
+    ]
+  },
+  {
+    "slug": "sikharam",
+    "rawFolder": "Sikharam(1)",
+    "displayName": "Sikharam",
+    "totalImages": 530,
+    "images": [
+      "/mudras/sikharam/0.jpg",
+      "/mudras/sikharam/1.jpg",
+      "/mudras/sikharam/2.jpg",
+      "/mudras/sikharam/3.jpg",
+      "/mudras/sikharam/4.jpg",
+      "/mudras/sikharam/5.jpg"
+    ]
+  },
+  {
+    "slug": "simhamukham",
+    "rawFolder": "Simhamukham(1)",
+    "displayName": "Simhamukham",
+    "totalImages": 523,
+    "images": [
+      "/mudras/simhamukham/0.jpg",
+      "/mudras/simhamukham/1.jpg",
+      "/mudras/simhamukham/2.jpg",
+      "/mudras/simhamukham/3.jpg",
+      "/mudras/simhamukham/4.jpg",
+      "/mudras/simhamukham/5.jpg"
+    ]
+  },
+  {
+    "slug": "suchi",
+    "rawFolder": "Suchi(1)",
+    "displayName": "Suchi",
+    "totalImages": 485,
+    "images": [
+      "/mudras/suchi/0.jpg",
+      "/mudras/suchi/1.jpg",
+      "/mudras/suchi/2.jpg",
+      "/mudras/suchi/3.jpg",
+      "/mudras/suchi/4.jpg",
+      "/mudras/suchi/5.jpg"
+    ]
+  },
+  {
+    "slug": "swastikam",
+    "rawFolder": "Swastikam(1)",
+    "displayName": "Swastikam",
+    "totalImages": 745,
+    "images": [
+      "/mudras/swastikam/0.jpg",
+      "/mudras/swastikam/1.jpg",
+      "/mudras/swastikam/2.jpg",
+      "/mudras/swastikam/3.jpg",
+      "/mudras/swastikam/4.jpg",
+      "/mudras/swastikam/5.jpg"
+    ]
+  },
+  {
+    "slug": "tamarachudam",
+    "rawFolder": "Tamarachudam(1)",
+    "displayName": "Tamarachudam",
+    "totalImages": 559,
+    "images": [
+      "/mudras/tamarachudam/0.jpg",
+      "/mudras/tamarachudam/1.jpg",
+      "/mudras/tamarachudam/2.jpg",
+      "/mudras/tamarachudam/3.jpg",
+      "/mudras/tamarachudam/4.jpg",
+      "/mudras/tamarachudam/5.jpg"
+    ]
+  },
+  {
+    "slug": "tripathaka",
+    "rawFolder": "Tripathaka(1)",
+    "displayName": "Tripathaka",
+    "totalImages": 551,
+    "images": [
+      "/mudras/tripathaka/0.jpg",
+      "/mudras/tripathaka/1.jpg",
+      "/mudras/tripathaka/2.jpg",
+      "/mudras/tripathaka/3.jpg",
+      "/mudras/tripathaka/4.jpg",
+      "/mudras/tripathaka/5.jpg"
+    ]
+  },
+  {
+    "slug": "trishulam",
+    "rawFolder": "Trishulam(1)",
+    "displayName": "Trishulam",
+    "totalImages": 560,
+    "images": [
+      "/mudras/trishulam/0.jpg",
+      "/mudras/trishulam/1.jpg",
+      "/mudras/trishulam/2.jpg",
+      "/mudras/trishulam/3.jpg",
+      "/mudras/trishulam/4.jpg",
+      "/mudras/trishulam/5.jpg"
+    ]
+  },
+  {
+    "slug": "varaha",
+    "rawFolder": "Varaha(1)",
+    "displayName": "Varaha",
+    "totalImages": 552,
+    "images": [
+      "/mudras/varaha/0.jpg",
+      "/mudras/varaha/1.jpg",
+      "/mudras/varaha/2.jpg",
+      "/mudras/varaha/3.jpg",
+      "/mudras/varaha/4.jpg",
+      "/mudras/varaha/5.jpg"
+    ]
+  }
+]
