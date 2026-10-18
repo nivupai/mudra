@@ -59,6 +59,32 @@ const SINGLE_HAND_ORDER = [
   "trishulam",
 ];
 
+// Traditional Abhinaya Darpana order of the 24 Samyukta Hastas. Dola and
+// Utsanga have no corresponding folder in this dataset and are omitted;
+// Samputa isn't part of the traditional 24 and is appended at the end.
+const DOUBLE_HAND_ORDER = [
+  "anjali",
+  "kapotham",
+  "karkatta",
+  "swastikam",
+  "pushpaputa",
+  "shivalinga",
+  "katakavardhana",
+  "kartariswastika",
+  "sakata",
+  "shanka",
+  "chakra",
+  "pasha",
+  "kilaka",
+  "matsya",
+  "kurma",
+  "varaha",
+  "garuda",
+  "nagabandha",
+  "khatva",
+  "berunda",
+];
+
 function byOrder(order) {
   return (a, b) => {
     const ai = order.indexOf(a.slug);
@@ -73,7 +99,9 @@ function byOrder(order) {
 export const SINGLE_HAND = MUDRAS.filter((m) => m.category === "single").sort(
   byOrder(SINGLE_HAND_ORDER)
 );
-export const DOUBLE_HAND = MUDRAS.filter((m) => m.category === "double");
+export const DOUBLE_HAND = MUDRAS.filter((m) => m.category === "double").sort(
+  byOrder(DOUBLE_HAND_ORDER)
+);
 
 export function getMudra(slug) {
   return MUDRAS.find((m) => m.slug === slug);
