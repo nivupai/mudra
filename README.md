@@ -1,4 +1,4 @@
-# Mudra Kosha
+# Natya Archive
 
 An interactive archive, flashcard, and quiz app for learning the hand gestures
 (mudras) of Bharatanatyam.
@@ -17,6 +17,9 @@ Live at **https://nivupai.github.io/mudra/**
   MediaPipe HandLandmarker tracks hand joints, a small MLP (trained on
   landmarks extracted from the dataset, see `ml/`) classifies the pose.
   Nothing leaves the browser.
+- **Nāṭyaśāstra** — full-text search over Manomohan Ghosh's English
+  translation (Vol. I), entirely client-side (MiniSearch). Surfaces verbatim
+  passages with chapter/page, not a generated answer — no LLM, no backend.
 
 ## Data
 

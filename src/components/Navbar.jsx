@@ -15,7 +15,7 @@ export default function Navbar() {
     <header className="navbar">
       <div className="container navbar-inner">
         <NavLink to="/" className="brand">
-          <span className="brand-mark">ॐ</span> Mudra Kosha
+          <span className="brand-mark">ॐ</span> Natya Archive
         </NavLink>
         <nav className="nav-links">
           {LINKS.map((l) => (
