@@ -1,0 +1,98 @@
+.natya-page {
+  padding: 32px 0 60px;
+  max-width: 820px;
+}
+
+.natya-search {
+  display: block;
+  width: 100%;
+  padding: 13px 18px;
+  border-radius: 999px;
+  border: 1.5px solid #e0cfa8;
+  font-size: 1rem;
+  background: white;
+  outline: none;
+  margin-bottom: 18px;
+}
+.natya-search:focus {
+  border-color: var(--maroon);
+}
+
+.natya-examples {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+
+.natya-example-chip {
+  background: white;
+  border: 1.5px solid #e0cfa8;
+  color: var(--maroon);
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-style: italic;
+}
+.natya-example-chip:hover {
+  border-color: var(--maroon);
+  background: var(--cream);
+}
+
+.natya-status {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin-bottom: 12px;
+}
+
+.natya-results {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.natya-result {
+  background: white;
+  border-radius: var(--card-radius);
+  border: 1px solid #f0e2c8;
+  box-shadow: var(--shadow);
+  padding: 18px 22px;
+}
+
+.natya-result-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.natya-chapter {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--maroon);
+  font-size: 1rem;
+}
+
+.natya-page-num {
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+
+.natya-excerpt {
+  color: var(--ink);
+  line-height: 1.7;
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.natya-excerpt mark {
+  background: var(--gold-light);
+  color: var(--maroon-dark);
+  padding: 0 2px;
+  border-radius: 3px;
+}

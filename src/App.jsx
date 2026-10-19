@@ -6,6 +6,7 @@ import MudraDetail from "./pages/MudraDetail.jsx";
 import Flashcards from "./pages/Flashcards.jsx";
 import Quiz from "./pages/Quiz.jsx";
 import Recognize from "./pages/Recognize.jsx";
+import NatyaShastra from "./pages/NatyaShastra.jsx";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/flashcards" element={<Flashcards />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/recognize" element={<Recognize />} />
+          <Route path="/natyashastra" element={<NatyaShastra />} />
         </Routes>
       </main>
     </>

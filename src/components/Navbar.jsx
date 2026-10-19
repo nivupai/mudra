@@ -7,6 +7,7 @@ const LINKS = [
   { to: "/flashcards", label: "Flashcards" },
   { to: "/quiz", label: "Quiz" },
   { to: "/recognize", label: "Recognize" },
+  { to: "/natyashastra", label: "Nāṭyaśāstra" },
 ];
 
 export default function Navbar() {

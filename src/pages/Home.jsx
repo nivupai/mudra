@@ -28,6 +28,12 @@ const FEATURES = [
     numeral: "IV",
     desc: "Hold up a mudra to your webcam and a model trained on hand landmarks guesses which one it is.",
   },
+  {
+    to: "/natyashastra",
+    title: "Nāṭyaśāstra",
+    numeral: "V",
+    desc: "Search Ghosh's English translation of the Nāṭyaśāstra and read the passages that actually mention it.",
+  },
 ];
 
 export default function Home() {
